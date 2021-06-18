@@ -7,5 +7,4 @@ https://portafoliogagandeep.netlify.app/index.html
 
 Toggle burger icon with js
 
-https://user-images.githubusercontent.com/66964536/122557944-bb5dc800-d03d-11eb-9e06-b6816cf1f79b.mp4
-
+![show-video](https://user-images.githubusercontent.com/66964536/122558658-a2a1e200-d03e-11eb-9386-d4f74013251d.gif)
