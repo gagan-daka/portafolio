@@ -1,7 +1,7 @@
 # Portafolio <br/>
 Demo Portafolio <br/>
 
-> Mobile Mockup 
+> Link
 
 [Go To Portafolio](https://portafoliogagandeep.netlify.app/index.html)
 
