@@ -626,7 +626,7 @@ html {
 
         /*INDEX.HTML*/
         .information-simple {
-            margin-top: 5rem;
+            margin-top: 3rem;
             div{
                 text-align: center;
             }
@@ -642,8 +642,8 @@ html {
         }
 
         .carrousel{
-            margin-top:3rem;
-            margin-bottom: 3rem;
+            margin-top:2rem;
+            margin-bottom: 2rem;
             .carrousel-container{
                 display: flex;
                 flex-direction: row;
@@ -653,6 +653,7 @@ html {
                     display: block;
                     margin: auto;
                     width:30%;
+                    -webkit-box-reflect: below 1px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(0.5, transparent), to(white));
                 }
             }
         }
