@@ -721,7 +721,7 @@ html {
     display: none;
   }
   body .information-simple {
-    margin-top: 5rem;
+    margin-top: 3rem;
   }
   body .information-simple div {
     text-align: center;
@@ -734,8 +734,8 @@ html {
     margin-top: 20px;
   }
   body .carrousel {
-    margin-top: 3rem;
-    margin-bottom: 3rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
   }
   body .carrousel .carrousel-container {
     display: -webkit-box;
@@ -755,6 +755,7 @@ html {
     display: block;
     margin: auto;
     width: 30%;
+    -webkit-box-reflect: below 1px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(0.5, transparent), to(white));
   }
   body .project-container h2 {
     padding: 20px;
